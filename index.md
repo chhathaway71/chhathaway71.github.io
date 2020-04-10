@@ -4,7 +4,7 @@
 
 ### About 
 
-[CV](/cv)
++ [CV](/cv)
 
 ---
 
@@ -25,13 +25,13 @@
 
 ### Contact
 
-[Contact](/contact)
++ [Contact](/contact)
 
 ---
 
 ### Coursework
 
-- [Coursework](/coursework)
++ [Coursework](/coursework)
 
 
 
