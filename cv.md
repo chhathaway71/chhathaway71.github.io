@@ -1,7 +1,8 @@
 ## Currently
 
-Perform model maintenance for cost accounting
-Support operational areas with reporting
+Currently, I maintain models for cost accounting, using SAP Business Objects
+I also support operational areas with reporting and business analysis
+I am also a student at Bellevue University, with an anticipated completion date of June 1, 2020
 
 ## Education
 
