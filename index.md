@@ -26,6 +26,7 @@
 + [DSC630-Project](https://github.com/chhathaway71/DSC-530)
 + [DSC640-Project](https://github.com/chhathaway71/DSC-640)
 + [DSC680-Project](https://github.com/chhathaway71/DSC-680)
+
 ---
 
 ### Contact
