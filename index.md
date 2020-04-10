@@ -2,12 +2,6 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-
----
-
 ### About 
 
 [CV](/cv)
@@ -16,7 +10,7 @@
 
 ### Work
 
-### [Projects](/projects)
+#### [Projects](/projects)
 
 + [DSC510 Project](https://github.com/chhathaway71/DSC-510)
 + [DSC520-Project](https://github.com/chhathaway71/DSC-520)
@@ -31,6 +25,7 @@
 
 ### Contact
 
+[Contact](/contact)
 
 ---
 
