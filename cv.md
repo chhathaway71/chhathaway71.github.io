@@ -6,7 +6,7 @@ Support operational areas with reporting
 ## Education
 
 `2018-2020`
-__Belleuvue University_
+__Belleuvue University__
 Master of Science in Data Science
 
 `2008-2010`
