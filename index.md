@@ -27,7 +27,7 @@
 
 ---
 
--[sample](/sample_page/)
+-[sample](/chhathawa71.github.io/sample_page/)
 
 
 ---
