@@ -24,7 +24,7 @@ Associates of Applied Science in Accounting
 __Business Analyst II__, Blue Cross Blue Shield Nebraska 
 
 - Cost Accounting
-- Task
+- Reporting
 
 `1999-2014`
 __Senior Accountant__, Transamerica Life Insurance Co 
