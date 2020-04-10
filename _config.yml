@@ -1,9 +1,8 @@
 title: Christine Hathaway # your name (or website title) here
 logo: #"/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Academic Portfolio 
-  <br><br>
-  Projects from Program in Data Science at Bellevue University
+    <br><br>
+  Academic Portfolio from Data Science Program
   <br><br>
   
 theme: jekyll-theme-tactile
