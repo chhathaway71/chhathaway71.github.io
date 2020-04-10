@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -17,7 +17,8 @@
 
 ### Work
 
-- [Projects](/projects)
+### [Projects](/projects)
+
 + [DSC510 Project](https://github.com/chhathaway71/DSC-510)
 + [DSC520-Project](https://github.com/chhathaway71/DSC-520)
 + [DSC530-Project](https://github.com/chhathaway71/DSC-530)
