@@ -1,6 +1,3 @@
----
-layout: resume
----
 ## Currently
 
 Perform model maintenance for cost accounting
