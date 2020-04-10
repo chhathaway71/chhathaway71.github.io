@@ -1,7 +1,4 @@
----
-layout: page
-title: Projects
----
+### Projects
 
 + [DSC510 Project](https://github.com/chhathaway71/DSC-510)
 + [DSC520-Project](https://github.com/chhathaway71/DSC-520)
