@@ -40,11 +40,11 @@
     ###### This folder contains 5 graphing projects that used Power BI.
      
 + DSC680-3 Projects
-    ###### [Project 1 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/Project 1)
+    ###### [Project 1 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%201)
     
-    ###### [Project 2 - Predictors for Parkinson's Disease](https://github.com/chhathaway71/DSC-680/Project 2)
+    ###### [Project 2 - Predictors for Parkinson's Disease](https://github.com/chhathaway71/DSC-680/tree/master/Project%202)
     
-    ###### [Project 3 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/Project 3)
+    ###### [Project 3 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%203)
     
 ---
 
