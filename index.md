@@ -28,7 +28,7 @@
     ###### Autism Case Study
     
 + [DSC630-Project](https://github.com/chhathaway71/DSC-630)
-    ######
+    ###### Health Benefits and Employee Satisfaction
     
 + [DSC640-Project](https://github.com/chhathaway71/DSC-640)
     ###### Graphic Presentations
