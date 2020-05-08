@@ -38,15 +38,15 @@
 
     This folder contains 5 graphing projects that used Power BI.
      
-+ [DSC 680 Project 1 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%201)
++ [DSC 680 Project 1 Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%201)
 
     This project looks at possible variables that can predict the effectiveness of the flu vaccination. 
     
-+ [DSC 680 Project 2 - Predictors for Parkinson's Disease](https://github.com/chhathaway71/DSC-680/tree/master/Project%202)
++ [DSC 680 Project 2 Predictors for Parkinson's Disease](https://github.com/chhathaway71/DSC-680/tree/master/Project%202)
 
     This project looks at variables in speech frequency measurements that could predict the onset of Parkinson's Disease.
     
-+ [DSC 680 Project 3 - Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%203)
++ [DSC 680 Project 3 Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%203)
 
     This project looks at wine characteristics that could be used to predict the quality of the wine.
     
