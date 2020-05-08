@@ -27,7 +27,7 @@
     ###### Cleaning Dataset from the Human Freedom Index and OpenWeather obtained through API
     
     
-+ [DSC550-Autism Case Study](https://github.com/chhathaway71/DSC-550)
++ [DSC550-Autism Case Study](https://chhathaway71.github.io/DSC-550/)
 
     ###### This project looked at the possibilty of finding indicators to predict autism in children.
     
