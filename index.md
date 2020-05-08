@@ -2,25 +2,25 @@
 
 ---
 
-### About 
+## About 
 
 + [Bio](/cv)
 
 ---
 
-### Projects
+## Projects
 
 + [Projects](/projects)
 
 ---
 
-### Contact
+## Contact
 
 + [Contact](/contact)
 
 ---
 
-### Coursework
+## Coursework
 
 + [Coursework](/coursework)
 
