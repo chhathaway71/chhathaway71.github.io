@@ -10,6 +10,8 @@
 
 ### Projects
 
++ [Projects](/projects)
+
 + [DSC510 Midterm and Final Projects](https://github.com/chhathaway71/DSC-510)
 
     Cleaning Datasets for Avengers and Weather files
