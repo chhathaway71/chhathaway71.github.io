@@ -14,28 +14,27 @@
 
     Cleaning Datasets for Avengers and Weather files
     
-+ [DSC520-Examining the Impact of the ACA on Health Insurance](https://github.com/chhathaway71/DSC-520)
++ [DSC520 Examining the Impact of the ACA on Health Insurance](https://github.com/chhathaway71/DSC-520)
 
     This project examines the impact of the new ACA on the Health Insurance industry
     
-+ [DSC530-How Accurate is the Groundhog?](https://github.com/chhathaway71/DSC-530)
++ [DSC530 How Accurate is the Groundhog?](https://github.com/chhathaway71/DSC-530)
 
     This project uses a dataset that tracks temperatures and groundhog predictions of Punxsutawney Phil
     
-+ [DSC540-Midterm and Final Project](https://github.com/chhathaway71/DSC-540)
++ [DSC540 Midterm and Final Project](https://github.com/chhathaway71/DSC-540)
 
     Cleaning Dataset from the Human Freedom Index and OpenWeather obtained through API
-    
-    
-+ [DSC550-Autism Case Study](https://github.com/chhathaway71/DSC-550)
+     
++ [DSC550 Autism Case Study](https://github.com/chhathaway71/DSC-550)
 
     This project looked at the possibilty of finding indicators to predict autism in children.
     
-+ [DSC630-Health Benefits and Employee Satisfaction](https://github.com/chhathaway71/DSC-630)
++ [DSC630 Health Benefits and Employee Satisfaction](https://github.com/chhathaway71/DSC-630)
 
     This project looked at health benefits and health issues of the general population.
     
-+ [DSC640-Graphic Presentations](https://github.com/chhathaway71/DSC-640)
++ [DSC640 Graphic Presentations](https://github.com/chhathaway71/DSC-640)
 
     This folder contains 5 graphing projects that used Power BI.
      
