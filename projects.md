@@ -36,6 +36,6 @@
 
     This project looks at variables in speech frequency measurements that could predict the onset of Parkinson's Disease.
     
-+ [DSC 680 Project 3 Study of Flu Vaccinaations](https://github.com/chhathaway71/DSC-680/tree/master/Project%203)
++ [DSC 680 Project 3 Wiine Tasting Predictions](https://github.com/chhathaway71/DSC-680/tree/master/Project%203)
 
     This project looks at wine characteristics that could be used to predict the quality of the wine.
