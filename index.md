@@ -20,6 +20,13 @@
 
 ---
 
+
+## Resume
+
++ [Resume](/current resume)
+
+---
+
 ## Coursework
 
 + [Coursework](/coursework)
