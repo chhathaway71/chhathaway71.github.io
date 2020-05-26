@@ -23,7 +23,7 @@
 
 ## Resume
 
-+ [Resume](/https://github.com/chhathaway71/chhathaway71.github.io/pdf/Current_Resume.pdf)
++ [Resume](/https://github.com/chhathaway71/chhathaway71.github.io/blob/master/pdf/Current_Resume.pdf)
 
 ---
 
