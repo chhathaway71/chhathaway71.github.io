@@ -10,6 +10,8 @@
 
 + [Bio](/cv)
 
+![bio_photo4](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/bio-photo4.jpg)
+
 ---
 
 ## Projects
