@@ -24,6 +24,7 @@
 
 + [Coursework](/coursework)
 
+---
 
 ## Resume
 
