@@ -5,7 +5,6 @@
 ## About 
 
 + [Bio](/cv)
-![dummy](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/dummy_thumbnail.jpg)
 
 ---
 
