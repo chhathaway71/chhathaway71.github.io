@@ -1,9 +1,9 @@
 ### Projects
 
 + [DSC510 Midterm and Final Projects](https://github.com/chhathaway71/DSC-510)
-![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/weather.jpg)
-
     Cleaning Datasets for Avengers and Weather files
+    
+    ![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/weather.jpg)
     
 + [DSC520 Examining the Impact of the ACA on Health Insurance](https://github.com/chhathaway71/DSC-520)
 
