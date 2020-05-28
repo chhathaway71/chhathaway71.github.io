@@ -16,7 +16,7 @@
 
 + [Projects](/projects)
 
-![projects](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/projects.jpg)
+![projects2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/projects2.jpg)
 
 ---
 
@@ -24,7 +24,7 @@
 
 + [Contact](/contact)
 
-![info](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/info.jpg)
+![info2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/info2.jpg)
 
 ---
 
@@ -32,7 +32,7 @@
 
 + [Coursework](/coursework)
 
-![coursework](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/coursework.jpg)
+![coursework2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/coursework2.jpg)
 
 ---
 
@@ -40,6 +40,6 @@
 
 + [Resume](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/pdf/Current_Resume.pdf)
 
-![resume](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/resume.jpg)
+![resume2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/resume2.jpg)
 
 ---
