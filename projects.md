@@ -4,7 +4,7 @@
     
     Cleaning Datasets for Avengers and Weather files
     
-    ![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/weather.jpg)
+    ![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/weather2.jpg)
     
 + [DSC520 Examining the Impact of the ACA on Health Insurance](https://github.com/chhathaway71/DSC-520)
 
