@@ -1,7 +1,7 @@
 ### Projects
 
 + [DSC510 Midterm and Final Projects](https://github.com/chhathaway71/DSC-510)
-![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/dummy_thumbnail.jpg)
+![weather](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/weather.jpg)
 
     Cleaning Datasets for Avengers and Weather files
     
