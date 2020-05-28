@@ -1,3 +1,7 @@
+![data_science](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/data_science.jpg)
+
+---
+
 # Portfolio
 
 ---
@@ -11,6 +15,8 @@
 ## Projects
 
 + [Projects](/projects)
+
+![projects](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/projects.jpg)
 
 ---
 
