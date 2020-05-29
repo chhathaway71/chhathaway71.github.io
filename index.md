@@ -6,41 +6,31 @@
 
 ---
 
-## About 
-
-+ [Bio](/cv)
+##  [About](/cv)
 
 ![bio_photo4](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/bio-photo4.jpg)
 
 ---
 
-## Projects
-
-+ [Projects](/projects)
+## [Projects](/projects)
 
 ![projects2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/projects2.jpg)
 
 ---
 
-## Contact
-
-+ [Contact](/contact)
+## [Contact](/contact)
 
 ![info2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/info2.jpg)
 
 ---
 
-## Coursework
-
-+ [Coursework](/coursework)
+## [Coursework](/coursework)
 
 ![coursework2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/coursework2.jpg)
 
 ---
 
-## Resume
-
-+ [Resume](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/pdf/Current_Resume.pdf)
+## [Resume](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/pdf/Current_Resume.pdf)
 
 ![resume2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/resume2.jpg)
 
