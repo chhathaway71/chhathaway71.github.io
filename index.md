@@ -30,7 +30,7 @@
 
 ---
 
-## [Resume](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/pdf/Data_Science_Current_Resume.pdf)
+## [Resume](https://github.com/chhathaway71/chhathaway71.github.io/blob/master/pdf/Data%20Science%20Current%20Resume.pdf)
 
 ![resume2](https://github.com/chhathaway71/chhathaway71.github.io/raw/master/images/resume2.jpg)
 
